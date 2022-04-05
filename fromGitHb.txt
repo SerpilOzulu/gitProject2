@@ -1,0 +1,4 @@
+This is an awesome fide i added directly from github.
+and now i am about to commit directly to Github.com remote repository.
+this is not sth we don normally.
+we are just trying to simulate asituation where remote repository history is ahead of local repository history
